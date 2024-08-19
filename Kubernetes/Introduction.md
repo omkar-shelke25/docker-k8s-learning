@@ -10,3 +10,4 @@
 
 - Kubernetes also allows users to define how applications should run and interact with other applications or the external world. It supports scaling services up or down, rolling out updates, and rolling them back in case of failure, all while maintaining the required number of instances at all times.
 
+
